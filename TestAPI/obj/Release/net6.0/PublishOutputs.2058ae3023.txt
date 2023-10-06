@@ -1,0 +1,11 @@
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\TestAPI\obj\Release\net6.0\PubTmp\Out\TestAPI.exe
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\TestAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\TestAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\TestAPI\obj\Release\net6.0\PubTmp\Out\TestAPI.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\TestAPI\obj\Release\net6.0\PubTmp\Out\TestAPI.deps.json
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\TestAPI\obj\Release\net6.0\PubTmp\Out\TestAPI.runtimeconfig.json
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\TestAPI\obj\Release\net6.0\PubTmp\Out\TestAPI.pdb
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\TestAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\TestAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\TestAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\TestAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

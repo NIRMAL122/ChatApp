@@ -1,0 +1,14 @@
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\ChatAppAPI.exe
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\ChatAppAPI.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\ChatAppAPI.deps.json
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\ChatAppAPI.runtimeconfig.json
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\ChatAppAPI.pdb
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\NaCl.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\PusherServer.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\ChatAppAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

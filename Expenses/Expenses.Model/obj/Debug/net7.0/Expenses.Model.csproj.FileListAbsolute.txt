@@ -1,0 +1,12 @@
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\bin\Debug\net7.0\Expenses.Model.deps.json
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\bin\Debug\net7.0\Expenses.Model.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\bin\Debug\net7.0\Expenses.Model.pdb
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\Expenses.Model.csproj.AssemblyReference.cache
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\Expenses.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\Expenses.Model.AssemblyInfoInputs.cache
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\Expenses.Model.AssemblyInfo.cs
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\Expenses.Model.csproj.CoreCompileInputs.cache
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\Expenses.Model.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\refint\Expenses.Model.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\Expenses.Model.pdb
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\ref\Expenses.Model.dll
