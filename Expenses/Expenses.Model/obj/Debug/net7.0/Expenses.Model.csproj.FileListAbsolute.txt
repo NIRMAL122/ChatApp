@@ -10,3 +10,5 @@ C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug
 C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\refint\Expenses.Model.dll
 C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\Expenses.Model.pdb
 C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\ref\Expenses.Model.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\bin\Debug\net7.0\Expenses.Model.runtimeconfig.json
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.Model\obj\Debug\net7.0\Expenses.Model.genruntimeconfig.cache

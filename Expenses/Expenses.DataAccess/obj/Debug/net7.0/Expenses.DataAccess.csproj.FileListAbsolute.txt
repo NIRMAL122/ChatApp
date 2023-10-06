@@ -13,3 +13,5 @@ C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.DataAccess\obj\
 C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.DataAccess\obj\Debug\net7.0\refint\Expenses.DataAccess.dll
 C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.DataAccess\obj\Debug\net7.0\Expenses.DataAccess.pdb
 C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.DataAccess\obj\Debug\net7.0\ref\Expenses.DataAccess.dll
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.DataAccess\bin\Debug\net7.0\Expenses.DataAccess.runtimeconfig.json
+C:\Nirmal's PC\Angular\AngularLearning\ChatApp\Expenses\Expenses.DataAccess\obj\Debug\net7.0\Expenses.DataAccess.genruntimeconfig.cache

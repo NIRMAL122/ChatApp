@@ -1,4 +1,5 @@
 using Expenses.DataAccess;
+using Expenses.DataAccess.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 namespace Expenses.web
@@ -14,6 +15,8 @@ namespace Expenses.web
 
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+
+            builder.Services.AddScoped<IExpensesRepository, ExpensesRepository>();
 
             var app = builder.Build();
 
@@ -34,7 +37,7 @@ namespace Expenses.web
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Expenses}/{action=Index}/{id?}");
 
             app.Run();
         }
